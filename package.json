@@ -1,0 +1,15 @@
+{
+  "name": "expressvalidator",
+  "version": "1.0.0",
+  "description": "validating user info with express validator ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Taufik islam",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-validator": "^7.0.1"
+  }
+}
